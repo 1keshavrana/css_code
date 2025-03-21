@@ -1,0 +1,18 @@
+#mainTopic{
+    color: blue;
+}
+
+*{
+    text-align: center;
+}
+.heading{
+    font-family: Georgia;
+}
+#parah{
+    background-color: cornflowerblue;
+    color: white;
+}
+#button{
+    background-color: purple;
+    color: azure;
+}
